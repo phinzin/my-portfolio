@@ -15,7 +15,7 @@ const SOCIAL_LINKS = [
     {
         name: "Instagram",
         displayName: "Instagram",
-        subText: "synguyen998",
+        subText: "phitruong2110",
         icon: Instagram,
         url: INSTAGRAM_URL,
         color: "#E4405F",
@@ -24,7 +24,7 @@ const SOCIAL_LINKS = [
     {
         name: "Facebook",
         displayName: "Facebook",
-        subText: "Sỹ Nguyên",
+        subText: "Phi Truong",
         icon: Facebook,
         url: FACEBOOK_URL,
         color: "#125AC7",
@@ -33,7 +33,7 @@ const SOCIAL_LINKS = [
     {
         name: "GitHub",
         displayName: "Github",
-        subText: "SyNguyen98",
+        subText: "phinzin",
         icon: GitHub,
         url: GITHUB_URL,
         color: "#ffffff",
@@ -42,7 +42,7 @@ const SOCIAL_LINKS = [
     {
         name: "YouTube",
         displayName: "Youtube",
-        subText: "@nguyenandbuddies",
+        subText: "@tranphitruong2017",
         icon: YouTube,
         url: YOUTUBE_URL,
         color: "#FF0000",
@@ -61,10 +61,10 @@ const SocialLinks = () => {
 
     return (
         <div className="w-full bg-gradient-to-br from-white/10 to-white/5 rounded-2xl p-6 py-8 backdrop-blur-xl">
-            <a href="mailto:nguyen.nguyenhongsy@outlook.com.vn">
+            <a href="mailto:phinzin2@gmail.com">
                 <h3 className="text-base sm:text-xl font-semibold text-white mb-6 flex items-center gap-2">
                     <span className="inline-block w-8 h-1 bg-indigo-500 rounded-full"></span>
-                    nguyen.nguyenhongsy@outlook.com.vn
+                    phinzin2@gmail.com
                 </h3>
             </a>
 

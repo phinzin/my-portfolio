@@ -19,16 +19,16 @@
     "ready_innovation": "Ready to Innovate",
     "above": "Software",
     "below": "Engineer",
-    "from": "From A Physics Student",
-    "to": "To A Software Engineer",
+    "from": "Fueled by coffee.",
+    "to": "Driven by scalability.",
     "slogan": "Passionate about technology, crafting websites that inspire and empower others."
   },
   "about_me": {
     "title": "About Me",
     "sub_title": "Transforming ideas into digital experiences",
     "hello": "Hello, I'm",
-    "name": "Nguyen Hong Sy Nguyen",
-    "description": "A Software Engineer at <b>Bosch Global Software Technologies Vietnam</b>, passionate about technology and continuous learning. I love exploring new tech stacks and building applications that not only solve real-world problems but also serve my own.\nFor me, coding is more than just work — it’s a way to create, innovate and bring ideas to life. \uD83D\uDE80",
+    "name": "Tran Phi Phi Truong",
+    "description": "A Software Engineer at <b>Bosch Global Software Technologies Vietnam</b>, passionate about technology and continuous learning. I love exploring new tech stacks and building applications that not only solve real-world problems but also serve my own.\nFor me, coding is more than just work — it's a way to create, innovate and bring ideas to life. \uD83D\uDE80",
     "buttons": {
       "download": "Download CV",
       "contact": "Contact Me"
@@ -58,14 +58,14 @@
     "technologies": "Total Technologies",
     "features": "Key Features",
     "list": {
-      "chika": {
-        "title": "Chika Web App",
-        "description": "A student project, the beginning of everything",
+      "home_management": {
+        "title": "Home Management Web App",
+        "description": "A simple and efficient web application for keeping track of daily home activities, tasks, and household management notes.",
         "features": {
-          "1": "Provide information for those interested in smart homes.",
-          "2": "Offer an interface and features that allow administrators to manage users and smart home products.",
-          "3": "Provide an interface and features that enable users to manage and control home devices remotely in real time.",
-          "4": "Help users create scheduled automation scenarios for devices."
+          "1": "Track and organize daily household activities and chores in an easy-to-use interface.",
+          "2": "Manage family members' tasks and responsibilities with user-friendly assignment features.",
+          "3": "Keep records of important household events, maintenance schedules, and regular activities.",
+          "4": "Create and maintain to-do lists for different areas of home management and daily living."
         }
       },
       "memoria": {
@@ -92,8 +92,8 @@
     "title": "Achievements",
     "sub_title": "Turning challenges into milestones, one achievement at a time",
     "list": {
-      "cic": {
-        "description": "During my university years, I participated in a Startup Competition, CIC 2020, presenting a Smart Home project with an application to control smart home devices. While I did not win any prize but the experience was invaluable, teaching me about product development, teamwork, and problem-solving. This journey fueled my passion for technology and innovation, shaping my approach to building practical and scalable solutions."
+      "appreciation": {
+        "description": "Dear Truong,\n\nI wanted to take a moment to express my sincere gratitude for your exceptional dedication and effort in developing our home management application. Your attention to detail and commitment to creating a user-friendly interface has truly exceeded our expectations.\n\nWhat impressed me most was how you took the time to understand our needs and translated them into practical features that make our daily tasks so much easier to manage. The application is not just a tool – it's become an essential part of our household routine.\n\nYour responsiveness to our feedback and the quick implementation of improvements showed your genuine commitment to delivering the best possible solution. It's rare to find someone who takes such pride in their work.\n\nThank you again for your hard work and professionalism. It has been a pleasure working with you."
       },
       "certification": {
         "description": "I was honored to receive a \"Certificate of Appreciation\" from Bosch for my contributions to the ThermalON project. This project leveraged Micro Frontend technology to enhance scalability and modularity in web applications. Being part of this innovation-driven initiative allowed me to deepen my expertise in modern web architectures while collaborating with a talented team to deliver impactful solutions."

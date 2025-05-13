@@ -3,7 +3,7 @@ import SocialLinks from "./SocialLinks.tsx";
 
 test('SocialLinks renders correctly', () => {
     render(<SocialLinks />);
-    const email = screen.getByRole("link", {name: /nguyen.nguyenhongsy@outlook.com.vn/i});
+    const email = screen.getByRole("link", {name: /phinzin2@gmail.com/i});
     expect(email).toBeInTheDocument();
 
     const linkedin = screen.getByRole("link", {name: /LinkedIn/i});

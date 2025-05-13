@@ -3,7 +3,7 @@ import Footer from "./Footer.tsx";
 
 test("Footer renders correctly", () => {
     render(<Footer/>)
-    const leftText = screen.getByText(/© SyNguyen™ - A Guy Who Love Coding/i);
+    const leftText = screen.getByText(/© Phi Truong™ - A Guy Who Love Coding/i);
     const rightText = screen.getByText(/Last updated on/i);
 
     expect(leftText).toBeInTheDocument();

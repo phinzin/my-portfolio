@@ -10,7 +10,7 @@ const TechIcon = ({icon, name}: Props) => {
             <div className="relative">
                 <div
                     className="absolute -inset-1 bg-gradient-to-r from-purple-400 to-purple-500 rounded-full opacity-0 group-hover:opacity-50 blur transition duration-300"></div>
-                <img src={`https://cdn.jsdelivr.net/gh/SyNguyen98/image-storage@main/my-portfolio/techs/${icon}`}
+                <img src={`https://cdn.jsdelivr.net/gh/phinzin/image-storage@main/my-portfolio/techs/${icon}`}
                      alt={`${name} icon`}
                      className="relative h-16 w-16 md:h-20 md:w-20 transform transition-transform duration-300"/>
             </div>

@@ -15,7 +15,7 @@ resource "azurerm_static_web_app" "example" {
   sku_tier            = "Free"
   sku_size            = "Free"
 
-  repository_url    = "https://github.com/SyNguyen98/my-portfolio"
+  repository_url    = "https://github.com/phinzin/my-portfolio"
   repository_branch = "main"
   repository_token  = var.github_token
 }

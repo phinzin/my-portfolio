@@ -45,7 +45,7 @@ function Achievements() {
 
                     <AchievementCard achievement={ACHIEVEMENTS[0]}/>
 
-                    <div className="space-y-6 sm:hidden">
+                    {/* <div className="space-y-6 sm:hidden">
                         <AchievementText achievement={ACHIEVEMENTS[1]} textPosition="right"/>
                     </div>
 
@@ -57,7 +57,7 @@ function Achievements() {
 
                     <AchievementText achievement={ACHIEVEMENTS[2]} textPosition="left"/>
 
-                    <AchievementCard achievement={ACHIEVEMENTS[2]}/>
+                    <AchievementCard achievement={ACHIEVEMENTS[2]}/> */}
                 </div>
             </div>
         </div>
